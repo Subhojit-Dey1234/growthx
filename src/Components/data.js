@@ -35,7 +35,7 @@ const data = [
         required : true,
         field_name : "multiple_options_field",
         type : "multiple_option",
-        instructions: "We want to understand how you spend your time right now.",
+        instructions: "Choose Multiple Options",
         autocomplete : "",
         options : [
             {

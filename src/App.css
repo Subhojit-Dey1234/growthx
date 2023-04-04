@@ -6,6 +6,7 @@
 
 *{
     font-family: 'Questrial', sans-serif !important;
+    box-sizing: border-box;
 }
 
 body{
@@ -25,12 +26,12 @@ input{
     opacity: 1 !important;
     width: 100px;
     color: white !important;
-    font-size: 24px !important;
+    font-size: 18px !important;
 }
 
 ::placeholder{
     color : white !important;
-    font-size: 24px;
+    font-size: 18px !important;
 }
 
 

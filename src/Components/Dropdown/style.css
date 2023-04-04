@@ -1,6 +1,6 @@
 .dropdown_container{
     background-color: rgb(41 41 41);
-    width: 50vw;
+    width: fit-content;
     font-size: 18px;
     color: white;
     padding: 10px;

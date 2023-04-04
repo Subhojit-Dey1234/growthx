@@ -1,3 +1,4 @@
+import "./Mobile.css"
 import "./App.css";
 import logo from "./Images/Dark_backround_full_logo.png";
 import PercentageCompletion from "./Components/PercentageCompletion";

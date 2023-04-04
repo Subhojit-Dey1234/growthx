@@ -1,0 +1,44 @@
+
+
+@media only screen and (max-width: 1300px){
+    .options_container{
+        width: unset !important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .logo_design{
+        font-size: 18px !important;
+    }
+    /* input{
+        font-size: 16px !important;
+    } */
+
+    /* ::placeholder{
+        font-size: 16px !important;
+    } */
+
+    .dropdown_container{
+        font-size: 12px !important;
+    }
+
+    .options_container{
+        width: unset !important;
+    }
+
+    .options_container span{
+        font-size: 14px !important;
+    }
+
+    .form-label{
+        font-size: 18px !important;
+    }
+
+    .form-button{
+        font-size: 24px !important;
+    }
+
+    .field_items{
+        margin: 0 3em;
+    }
+  }
