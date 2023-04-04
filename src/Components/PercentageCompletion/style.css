@@ -1,0 +1,15 @@
+.percentage_container{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 4px;
+    background-color: var(--theme_color_light);
+}
+
+.percentage_container div{
+    position: relative;
+    height: 100%;
+    background-color: var(--theme_color);
+    transition: width 1s ease-in-out;
+
+}
